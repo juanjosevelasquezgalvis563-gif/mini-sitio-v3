@@ -1,8 +1,7 @@
-# Dependencias
 node_modules/
+.vscode/
 dist/
 build/
-.vscode/
 .env
 .DS_Store
 Thumbs.db
