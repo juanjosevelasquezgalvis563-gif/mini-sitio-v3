@@ -1,0 +1,10 @@
+# Dependencias
+node_modules/
+dist/
+build/
+.vscode/
+.env
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
